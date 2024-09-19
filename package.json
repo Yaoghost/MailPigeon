@@ -24,7 +24,8 @@
     "nodemon": "^3.1.4",
     "passport": "^0.5.3",
     "passport-google-oauth20": "^2.0.0",
-    "redux-thunk": "^3.1.0"
+    "redux-thunk": "^3.1.0",
+    "utils-merge": "^1.0.1"
   },
   "devDependencies": {
     "concurrently": "^8.2.2"
